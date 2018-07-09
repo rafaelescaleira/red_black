@@ -44,4 +44,4 @@ Execução do Programa (Teste)
 
 Execução do Programa (Principal)
 --------------------------------
-![grab-landing-page](https://j.gifs.com/Q0pLOY.gif)
+![grab-landing-page](https://j.gifs.com/nrqm3W.gif)
