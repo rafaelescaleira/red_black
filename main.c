@@ -140,7 +140,7 @@ int main (void) {
     cor_texto (verde);
     printf ("         * ");
     cor_texto (magenta);
-    printf ("AVL ");
+    printf ("RB  ");
     estilo_texto (resetar);
     printf ("Inserção : %.6lf segundos    ", tempo [0]);
     
@@ -155,7 +155,7 @@ int main (void) {
     cor_texto (verde);
     printf ("         * ");
     cor_texto (magenta);
-    printf ("AVL ");
+    printf ("RB  ");
     estilo_texto (resetar);
     printf ("Remoção  : %.6lf segundos    ", tempo [1]);
     
