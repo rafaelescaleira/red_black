@@ -1,5 +1,9 @@
 Árvore Rubro - Negra (Red Black) (Genérica)
 ===========================================
+
+![Build](https://img.shields.io/gitlab/pipeline/rafaelescaleira/red_black.svg)
+![License](https://img.shields.io/github/license/rafaelescaleira/red_black.svg)
+
 Esse repositório possui funções implementadas em linguagem C.
 Segue a lista das funções :
 
